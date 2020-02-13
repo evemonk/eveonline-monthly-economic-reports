@@ -2,3 +2,6 @@
 
 # https://www.eveonline.com/article/q43vbb/monthly-economic-report-december-2019
 wget -c https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2019b.zip
+
+# https://www.eveonline.com/article/q2981h/monthly-economic-report-november-2019
+wget -c https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2019.zip
